@@ -16,8 +16,7 @@
 
 ----
 ### Where to Purchase?
-* Digikey: http://www.digikey.com/product-detail/en/BD9D321EFJ-EVK-101/BD9D321EFJ-EVK-101-ND/5119900
-* Mouser: http://www.mouser.com/ProductDetail/ROHM-Semiconductor/BD9D321EFJ-EVK-101/?qs=sGAEpiMZZMu6TJb8E8Cjr95rznVS2s82qNZ85BPqWSk%3d
+* http://www.rohm.com/web/global/distribution/-/dinventory/BD9D321EFJ-EVK-101/sample/0
 
 ----
 ### DISCLAIMER
